@@ -3,8 +3,8 @@ import linkInImg from "../../images/LI-In-Bug.png";
 
 const Footer = () => {
   return (
-    <footer className="w-100 mt-auto bg-secondary p-4">
-      <div className="container text-center mb-5">
+    <footer className="w-100 bg-secondary p-4">
+      <div className="container-fluid height-5% text-center mb-5">
         <h4>
           Made with{" "}
           <span
@@ -15,9 +15,9 @@ const Footer = () => {
           >
             ❤️
           </span>{" "}
-          by the Tech Thoughts team.
+          by the Tech Thoughts team. YUP
         </h4>
-        <img src={linkInImg} alt="linked in" />
+        <img src={linkInImg} className="h-25" alt="linked in" />
       </div>
     </footer>
   );
