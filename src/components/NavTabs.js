@@ -6,7 +6,7 @@ function NavTabs({ currentPage, handlePageChange }) {
   return (
     <div>
       <h1>Steve Weed</h1>
-      <div className=" text-center">
+      <div className=" text-center h-25">
         <ul className="row">
           <li className="col list-group-item">
             <a

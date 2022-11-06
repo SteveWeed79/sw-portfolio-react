@@ -3,8 +3,8 @@ import linkInImg from "../../images/LI-In-Bug.png";
 
 const Footer = () => {
   return (
-    <footer className="w-100 bg-secondary p-4">
-      <div className="container-fluid height-5% text-center mb-5">
+    <footer className="container-fluid text-center height: 10% bg-secondary p-4">
+      <div className="mb-5">
         <h4>
           Made with{" "}
           <span
