@@ -6,7 +6,7 @@ export default function Home() {
     <div className="home container text-center">
       <div>
         <h1>Home Page</h1>
-        <p className="mxy-5">
+        <p className="mx-5">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
           velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia
           nisi ac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex.
