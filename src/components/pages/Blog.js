@@ -1,8 +1,8 @@
-import React from 'react';
+import React from "react";
 
 export default function Blog() {
   return (
-    <div>
+    <div className="home">
       <h1>Blog Page</h1>
       <p>
         Donec a volutpat quam. Curabitur nec varius justo, sed rutrum ligula.

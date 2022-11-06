@@ -1,0 +1,17 @@
+.img {
+  height: auto;
+  width: 4vw;
+}
+.header {
+  width: 100vw;
+  height: 25vh;
+  border-bottom: 4px;
+}
+.home {
+  width: 100vw;
+  height: 70vh;
+}
+.footer {
+  width: 100vw;
+  height: 5vw;
+}
