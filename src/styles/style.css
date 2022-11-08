@@ -4,14 +4,14 @@
 }
 .header {
   margin-top: 2em;
-  height: 25vh;
+  min-height: 20%;
   border-bottom: 4px;
 }
 .home {
-  height: 65vh;
+  min-height: 65%;
 }
 .footer {
-  height: 5vw;
+  min-height: 10%;
 }
 
 h1 {

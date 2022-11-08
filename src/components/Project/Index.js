@@ -1,8 +1,5 @@
 import React from "react";
 // import linkInImg from "../../images/LI-In-Bug.png";
-import { GoMarkGithub } from "react-icons/go";
-import { BsLinkedin } from "react-icons/bs";
-import { HiOutlineMail } from "react-icons/hi";
 
 const Footer = () => {
   return (
@@ -16,4 +13,4 @@ const Footer = () => {
   );
 };
 
-export default Footer;
+export default Project;
