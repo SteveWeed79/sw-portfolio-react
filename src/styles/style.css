@@ -3,15 +3,17 @@
   width: 4vw;
 }
 .header {
-  width: 100vw;
+  margin-top: 2em;
   height: 25vh;
   border-bottom: 4px;
 }
 .home {
-  width: 100vw;
-  height: 70vh;
+  height: 65vh;
 }
 .footer {
-  width: 100vw;
   height: 5vw;
+}
+
+h1 {
+  font-family: "Fredoka One", cursive;
 }
