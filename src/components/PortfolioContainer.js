@@ -5,7 +5,6 @@ import About from "./pages/About";
 import Blog from "./pages/Blog";
 import Contact from "./pages/Contact";
 import Footer from "./Footer";
-import "bootstrap/dist/css/bootstrap.min.css";
 
 export default function PortfolioContainer() {
   const [currentPage, setCurrentPage] = useState("Home");

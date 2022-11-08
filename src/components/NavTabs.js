@@ -1,6 +1,4 @@
 import React from "react";
-import "../styles/style.css";
-import "bootstrap/dist/css/bootstrap.min.css";
 
 // Here we are using object destructuring assignment to pluck off our variables from the props object
 // We assign them to their own variable names
@@ -8,8 +6,8 @@ function NavTabs({ currentPage, handlePageChange }) {
   return (
     <div className="header">
       <h1>Steve Weed</h1>
-      <div className=" text-center justify-center fixed-botton">
-        <ul className="row position-sticky">
+      <div className="text-center justify-center fixed-botton">
+        <ul className="row">
           <li className="col list-group-item">
             <a
               href="#home"
