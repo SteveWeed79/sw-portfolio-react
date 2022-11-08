@@ -4,18 +4,19 @@ export default function Home() {
   return (
     <div className="home container text-center">
       <div>
-        <h1>Home Page</h1>
+        <h1 className="m-2">My Story</h1>
         <p className="mx-5">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
-          velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia
-          nisi ac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex.
-          Cras non risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna
-          imperdiet ac. Sed nec nulla aliquam, bibendum odio eget, vestibulum
-          tortor. Cras rutrum ligula in tincidunt commodo. Morbi sit amet mollis
-          orci, in tristique ex. Donec nec ornare elit. Donec blandit est sed
-          risus feugiat porttitor. Vestibulum molestie hendrerit massa non
-          consequat. Vestibulum vitae lorem tortor. In elementum ultricies
-          tempus. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          I was introduced to computers at a young age and I was immediately
+          fascinated. I somehow managed to get my hands on a Commodore 64 and
+          spent countless hours trying to figure out dos commands and make my
+          first programs. However life never runs in a straight line. I went to
+          work in retail at age 20 and just never left. I love working with a
+          team and helping others to progress. I had the opportunity to travel
+          for work which allowed me to work with a diverse range of people. Some
+          22 years later, and with a bit of relief, I decided it was time and
+          left the company. I joined the KU Full-stack Bootcamp, and although
+          the experience was challenging, it was awesome. I’ve learned how much
+          I enjoy coding and the process and challenges.
         </p>
       </div>
     </div>

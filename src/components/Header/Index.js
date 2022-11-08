@@ -28,10 +28,10 @@ function NavTabs({ currentPage, handlePageChange }) {
               onClick={() => handlePageChange("About")}
               // Check to see if the currentPage is `About`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
               className={
-                currentPage === "About" ? "nav-link active" : "nav-link"
+                currentPage === "Portfolio" ? "nav-link active" : "nav-link"
               }
             >
-              About
+              Portfolio
             </a>
           </li>
           <li className="col list-group-item">
@@ -43,7 +43,7 @@ function NavTabs({ currentPage, handlePageChange }) {
                 currentPage === "Blog" ? "nav-link active" : "nav-link"
               }
             >
-              Blog
+              Resume
             </a>
           </li>
           <li className="col list-group-item">

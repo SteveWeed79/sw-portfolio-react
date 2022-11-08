@@ -5,7 +5,7 @@ export default function About() {
   return (
     <div className="container-fluid w-100 home ">
       <div>
-        <h1 className="text-center">About Page</h1>
+        <h1 className="text-center">My Portfolio</h1>
         <p className="col m-5 text-center">
           Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
           Integer gravida dui mauris, ut interdum nunc egestas sed. Aenean sed
