@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/SteveWeed79/sw-portfolio-react/static/css/main.f816f678.css",
+    "main.js": "/SteveWeed79/sw-portfolio-react/static/js/main.9ad7bd95.js",
+    "static/media/refactor.JPG": "/SteveWeed79/sw-portfolio-react/static/media/refactor.1dd2e24d27e470bd0c6d.JPG",
+    "static/media/beats.JPG": "/SteveWeed79/sw-portfolio-react/static/media/beats.be563efcc887d1933bf7.JPG",
+    "static/media/hex.jpg": "/SteveWeed79/sw-portfolio-react/static/media/hex.a6e3c68c18630ef02d22.jpg",
+    "static/media/calendar.JPG": "/SteveWeed79/sw-portfolio-react/static/media/calendar.78d176621ced03c912ba.JPG",
+    "static/media/quiz.JPG": "/SteveWeed79/sw-portfolio-react/static/media/quiz.caf5cec65ab4f6384727.JPG",
+    "static/media/resume.docx": "/SteveWeed79/sw-portfolio-react/static/media/resume.713d441382199a11313f.docx",
+    "index.html": "/SteveWeed79/sw-portfolio-react/index.html",
+    "main.f816f678.css.map": "/SteveWeed79/sw-portfolio-react/static/css/main.f816f678.css.map",
+    "main.9ad7bd95.js.map": "/SteveWeed79/sw-portfolio-react/static/js/main.9ad7bd95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f816f678.css",
+    "static/js/main.9ad7bd95.js"
+  ]
+}
