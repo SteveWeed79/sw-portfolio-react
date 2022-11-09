@@ -2,7 +2,7 @@
   "name": "sw-portfolio-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://SteveWeed79/github.io/sw-portfolio-react",
+  "homepage": "https://SteveWeed79.github.io/sw-portfolio-react",
   "dependencies": {
     "@primer/octicons-react": "^17.9.0",
     "@testing-library/jest-dom": "^5.16.5",
