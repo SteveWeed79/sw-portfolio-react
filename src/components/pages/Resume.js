@@ -6,6 +6,9 @@ export default function Resume() {
   return (
     <div className="home">
       <h1>My Resume</h1>
+      <a href={ResumeDoc} download>
+        Resumé
+      </a>
       <p></p>
     </div>
   );
