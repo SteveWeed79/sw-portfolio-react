@@ -413,6 +413,17 @@ p {
   backdrop-filter: blur(10px) saturate(70%);
 }
 
+ul {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+}
+
+.projectimg {
+  width: 30%;
+  height: auto;
+}
+
 ul,
 ol,
 dl {
