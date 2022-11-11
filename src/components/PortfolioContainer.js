@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import Header from "./Header/Index";
 import Home from "./pages/Home";
 import About from "./pages/Portfolio";
@@ -22,6 +22,10 @@ export default function PortfolioContainer() {
     }
     return <Contact />;
   };
+
+  useEffect(() => {
+    document.title = "Steve Weed";
+  }, []);
 
   const handlePageChange = (page) => setCurrentPage(page);
 
