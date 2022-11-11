@@ -1,4 +1,4 @@
-# <sw-portfolio-react>
+# sw-portfolio-react
 
 ## Description
 
@@ -8,7 +8,6 @@ This is a portfoilo built using React
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
 - [License](#license)
 
 ## Installation
